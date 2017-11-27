@@ -1,0 +1,38 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin:0;
+	font-family:"微软雅黑";
+	font-size:12px;
+	color:#333;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style:none;
+}
+img {
+	display: block;
+    max-width: 100%;
+    max-height: 100%;
+    border: 0;
+}
+p{
+	margin:0 ;
+}
+.container{
+		margin:0 auto;	
+		width:1100px;		
+	}
+.wyyx{
+	
+}
+
+.mt-10{
+	margin-top: 10px;
+}
+.text-center{
+	text-align: center;
+}
